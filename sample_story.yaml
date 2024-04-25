@@ -1,0 +1,21 @@
+model: "llama2"
+num_tokens: 4096
+temperature: 0.7
+player_card: |
+  Name: Marek
+  Type: Player
+  Description: Marek is a warrior from the mountainous region of Strzelec, known for his prowess with a broadsword and his deep
+  knowledge of ancient lore. His intimidating presence belies a protective nature and a commitment to defending the forgotten histories
+  of his land. Stoic yet approachable, Marek is a steadfast ally in the face of darkness.
+companion_cards:
+  - |
+    Name: Kaja
+    Type: Companion NPC
+    Description: Kaja is a skilled rogue, adept in stealth and deception, who grew up amongst the crafty street performers and pickpockets
+    of Javorov. She has a sharp mind for puzzles and an even sharper blade for threats. Her agility and resourcefulness make her
+    a whispered legend among the shadowy corners of Zalas.
+story_card: |
+  In the land of Zalas, the player and their companion, a seasoned warrior from the distant hills of Strzelec, embark on a quest
+  to discover a fabled tome believed to contain the secret of levitation. Their path leads them through ancient forests shrouded in fog,
+  dilapidated monasteries, and deep, forgotten catacombs. They will encounter various mysterious creatures, form alliances with unlikely
+  heroes, and solve enigmatic puzzles to secure the tome.
