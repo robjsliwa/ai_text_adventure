@@ -1,6 +1,6 @@
 # AI based Text Adventure
 
-This is companion code to my article.  This repo implements a text adventure game that uses LLM by connecting to locally running Ollama server.  The game story can be defined using story card and player, companions, and other NPCs can be defined using character cards.  You can take a look at the `sample_story.yaml` for example.
+This is companion code to my [article](https://medium.com/@robjsliwa_71070/crafting-retro-text-adventure-games-with-modern-ai-ab0d2fe6e2c6).  This repo implements a text adventure game that uses LLM by connecting to locally running Ollama server.  The game story can be defined using story card and player, companions, and other NPCs can be defined using character cards.  You can take a look at the `sample_story.yaml` for example.
 
 Install required packages:
 
